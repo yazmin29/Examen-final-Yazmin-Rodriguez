@@ -1,0 +1,176 @@
+2021-03-17 16:57:42 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (3e45449098629b5a95c7d77f2ab927c6)] -> name: Submit]
+2021-03-17 16:57:44 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (3e45449098629b5a95c7d77f2ab927c6)] -> xpath: //a[@title='Proceed to checkout']]
+2021-03-17 16:57:44 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (3e45449098629b5a95c7d77f2ab927c6)] -> class name: icon-plus]
+2021-03-17 16:58:06 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (1ab7ad19c3d977e32096a6d65feabe82)] -> name: Submit]
+2021-03-17 16:58:08 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (1ab7ad19c3d977e32096a6d65feabe82)] -> xpath: //a[@title='Proceed to checkout']]
+2021-03-17 16:58:09 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (1ab7ad19c3d977e32096a6d65feabe82)] -> class name: icon-plus]
+2021-03-17 16:58:33 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (8c24f1396fef5e7016e3f0d9c281a528)] -> name: Submit]
+2021-03-17 16:58:35 ERROR BasePage:41 - Unable to click on element: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="submit" name="Submit" class="exclusive added">...</button> is not clickable at point (1111, 587). Other element would receive the click: <div class="layer_cart_overlay" style="width: 100%; height: 100%; display: block;"></div>
+  (Session info: chrome=89.0.4389.90)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MOV-YAZMIN', ip: '192.168.0.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\YAZMIN~2\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61128}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8c24f1396fef5e7016e3f0d9c281a528
+2021-03-17 16:59:52 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (c5ddbc5fe8200475c92deb0750cd667a)] -> xpath: //a[@title='Contact Us']]
+2021-03-17 16:59:52 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (c5ddbc5fe8200475c92deb0750cd667a)] -> id: uniform-id_contact]
+2021-03-17 16:59:52 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (c5ddbc5fe8200475c92deb0750cd667a)] -> xpath: //*[@value='2']]
+2021-03-17 16:59:55 INFO  BasePage:39 - Clicked on element: Proxy element for: DefaultElementLocator 'By.name: submitMessage'
+2021-03-17 17:00:11 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (74aeb90ed321a1621ef106d57413a0d4)] -> name: Submit]
+2021-03-17 17:00:13 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (74aeb90ed321a1621ef106d57413a0d4)] -> xpath: //a[@title='Proceed to checkout']]
+2021-03-17 17:00:13 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (74aeb90ed321a1621ef106d57413a0d4)] -> class name: icon-trash]
+2021-03-17 17:00:24 ERROR BasePage:41 - Unable to click on element: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.className: icon-trash' (tried for 10 second(s) with 500 milliseconds interval)
+2021-03-17 17:12:36 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (de2fbad3d758ce2a80f53379c3fcd3a0)] -> name: Submit]
+2021-03-17 17:12:41 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (de2fbad3d758ce2a80f53379c3fcd3a0)] -> xpath: //a[@title='Proceed to checkout']]
+2021-03-17 17:12:41 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (de2fbad3d758ce2a80f53379c3fcd3a0)] -> class name: icon-plus]
+2021-03-17 17:12:56 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (7f577400a1de549f7dff273e33a22ecd)] -> name: Submit]
+2021-03-17 17:12:58 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (7f577400a1de549f7dff273e33a22ecd)] -> xpath: //a[@title='Proceed to checkout']]
+2021-03-17 17:12:58 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (7f577400a1de549f7dff273e33a22ecd)] -> class name: icon-plus]
+2021-03-17 17:13:11 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (71a3df325c5f1e382a10456b73435f07)] -> name: Submit]
+2021-03-17 17:13:12 ERROR BasePage:41 - Unable to click on element: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="submit" name="Submit" class="exclusive added">...</button> is not clickable at point (1111, 587). Other element would receive the click: <div class="layer_cart_overlay" style="width: 100%; height: 100%; display: block;"></div>
+  (Session info: chrome=89.0.4389.90)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MOV-YAZMIN', ip: '192.168.0.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\YAZMIN~2\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61752}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 71a3df325c5f1e382a10456b73435f07
+2021-03-17 17:13:26 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (ad6fe373edc31973aec99ccb6824f471)] -> xpath: //a[@title='Contact Us']]
+2021-03-17 17:13:26 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (ad6fe373edc31973aec99ccb6824f471)] -> id: uniform-id_contact]
+2021-03-17 17:13:26 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (ad6fe373edc31973aec99ccb6824f471)] -> xpath: //*[@value='2']]
+2021-03-17 17:13:28 INFO  BasePage:39 - Clicked on element: Proxy element for: DefaultElementLocator 'By.name: submitMessage'
+2021-03-17 17:13:51 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (703bc983e947c5b011d124fed6384863)] -> name: Submit]
+2021-03-17 17:13:53 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (703bc983e947c5b011d124fed6384863)] -> xpath: //a[@title='Proceed to checkout']]
+2021-03-17 17:13:54 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (703bc983e947c5b011d124fed6384863)] -> class name: icon-trash]
+2021-03-17 17:14:06 ERROR BasePage:41 - Unable to click on element: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.className: icon-trash' (tried for 10 second(s) with 500 milliseconds interval)
+2021-03-17 17:24:35 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (21382b9a99cd95b8458290fc9d28a41c)] -> name: Submit]
+2021-03-17 17:24:37 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (21382b9a99cd95b8458290fc9d28a41c)] -> xpath: //a[@title='Proceed to checkout']]
+2021-03-17 17:24:38 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (21382b9a99cd95b8458290fc9d28a41c)] -> class name: icon-plus]
+2021-03-17 17:24:54 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (c002c9e46218121e9e2ef68a92619b69)] -> name: Submit]
+2021-03-17 17:24:56 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (c002c9e46218121e9e2ef68a92619b69)] -> xpath: //a[@title='Proceed to checkout']]
+2021-03-17 17:24:56 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (c002c9e46218121e9e2ef68a92619b69)] -> class name: icon-plus]
+2021-03-17 17:25:09 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (ba56b0d8860aa3e57a61a4d496515a70)] -> name: Submit]
+2021-03-17 17:25:11 ERROR BasePage:41 - Unable to click on element: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="submit" name="Submit" class="exclusive added">...</button> is not clickable at point (1111, 587). Other element would receive the click: <div class="layer_cart_overlay" style="width: 100%; height: 100%; display: block;"></div>
+  (Session info: chrome=89.0.4389.90)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MOV-YAZMIN', ip: '192.168.0.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\YAZMIN~2\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62298}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ba56b0d8860aa3e57a61a4d496515a70
+2021-03-17 17:25:20 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (abe8c2c4dd0f4a4c0ee831885f535354)] -> xpath: //a[@title='Contact Us']]
+2021-03-17 17:25:21 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (abe8c2c4dd0f4a4c0ee831885f535354)] -> id: uniform-id_contact]
+2021-03-17 17:25:21 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (abe8c2c4dd0f4a4c0ee831885f535354)] -> xpath: //*[@value='2']]
+2021-03-17 17:25:22 INFO  BasePage:39 - Clicked on element: Proxy element for: DefaultElementLocator 'By.name: submitMessage'
+2021-03-17 17:25:36 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (9866bc295b9abe74e489255bf4e6cf06)] -> name: Submit]
+2021-03-17 17:25:39 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (9866bc295b9abe74e489255bf4e6cf06)] -> xpath: //a[@title='Proceed to checkout']]
+2021-03-17 17:25:39 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (9866bc295b9abe74e489255bf4e6cf06)] -> class name: icon-trash]
+2021-03-17 17:25:51 ERROR BasePage:41 - Unable to click on element: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.className: icon-trash' (tried for 10 second(s) with 500 milliseconds interval)
+2021-03-17 17:29:02 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (5d2d41be99d0caaa6bed720ed2dfd04e)] -> name: Submit]
+2021-03-17 17:29:05 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (5d2d41be99d0caaa6bed720ed2dfd04e)] -> xpath: //a[@title='Proceed to checkout']]
+2021-03-17 17:29:05 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (5d2d41be99d0caaa6bed720ed2dfd04e)] -> class name: icon-plus]
+2021-03-17 17:29:20 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (0ab475a9bd469e8480b8175d04a3d53c)] -> name: Submit]
+2021-03-17 17:29:23 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (0ab475a9bd469e8480b8175d04a3d53c)] -> xpath: //a[@title='Proceed to checkout']]
+2021-03-17 17:29:23 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (0ab475a9bd469e8480b8175d04a3d53c)] -> class name: icon-plus]
+2021-03-17 17:29:36 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (2cf4d7790331a9b25f946ad48169177c)] -> name: Submit]
+2021-03-17 17:29:38 ERROR BasePage:41 - Unable to click on element: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="submit" name="Submit" class="exclusive added">...</button> is not clickable at point (1111, 587). Other element would receive the click: <div class="layer_cart_overlay" style="width: 100%; height: 100%; display: block;"></div>
+  (Session info: chrome=89.0.4389.90)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MOV-YAZMIN', ip: '192.168.0.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\YAZMIN~2\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62630}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2cf4d7790331a9b25f946ad48169177c
+2021-03-17 17:29:49 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (ecfe5670ef2e7e5cdc2cfe475be67d71)] -> xpath: //a[@title='Contact Us']]
+2021-03-17 17:29:49 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (ecfe5670ef2e7e5cdc2cfe475be67d71)] -> id: uniform-id_contact]
+2021-03-17 17:29:50 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (ecfe5670ef2e7e5cdc2cfe475be67d71)] -> xpath: //*[@value='2']]
+2021-03-17 17:29:51 INFO  BasePage:39 - Clicked on element: Proxy element for: DefaultElementLocator 'By.name: submitMessage'
+2021-03-17 17:30:03 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (b6240382eb311fa9397aba2bc877abe2)] -> name: Submit]
+2021-03-17 17:30:05 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (b6240382eb311fa9397aba2bc877abe2)] -> xpath: //a[@title='Proceed to checkout']]
+2021-03-17 17:30:06 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (b6240382eb311fa9397aba2bc877abe2)] -> class name: icon-trash]
+2021-03-17 17:30:17 ERROR BasePage:41 - Unable to click on element: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.className: icon-trash' (tried for 10 second(s) with 500 milliseconds interval)
+2021-03-17 17:33:41 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (f5f3ef2c9b0abefac60ecc112a9e7112)] -> name: Submit]
+2021-03-17 17:33:44 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (f5f3ef2c9b0abefac60ecc112a9e7112)] -> xpath: //a[@title='Proceed to checkout']]
+2021-03-17 17:33:44 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (f5f3ef2c9b0abefac60ecc112a9e7112)] -> class name: icon-plus]
+2021-03-17 17:33:56 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (f709c40f9bfdfe45d9c123e40c1084d4)] -> name: Submit]
+2021-03-17 17:33:58 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (f709c40f9bfdfe45d9c123e40c1084d4)] -> xpath: //a[@title='Proceed to checkout']]
+2021-03-17 17:33:58 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (f709c40f9bfdfe45d9c123e40c1084d4)] -> class name: icon-plus]
+2021-03-17 17:34:13 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (cb3e1d712ac5cdb5364d1b533ca9db96)] -> name: Submit]
+2021-03-17 17:34:15 ERROR BasePage:41 - Unable to click on element: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="submit" name="Submit" class="exclusive added">...</button> is not clickable at point (1111, 587). Other element would receive the click: <div class="layer_cart_overlay" style="width: 100%; height: 100%; display: block;"></div>
+  (Session info: chrome=89.0.4389.90)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MOV-YAZMIN', ip: '192.168.0.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\YAZMIN~2\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62956}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cb3e1d712ac5cdb5364d1b533ca9db96
+2021-03-17 17:34:27 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (d4f85bbfc5bec338381ace20f087b39b)] -> xpath: //a[@title='Contact Us']]
+2021-03-17 17:34:27 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (d4f85bbfc5bec338381ace20f087b39b)] -> id: uniform-id_contact]
+2021-03-17 17:34:27 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (d4f85bbfc5bec338381ace20f087b39b)] -> xpath: //*[@value='2']]
+2021-03-17 17:34:29 INFO  BasePage:39 - Clicked on element: Proxy element for: DefaultElementLocator 'By.name: submitMessage'
+2021-03-17 17:34:41 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (3be721fd1e7b33e8edd413c11f2d7a67)] -> name: Submit]
+2021-03-17 17:34:43 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (3be721fd1e7b33e8edd413c11f2d7a67)] -> xpath: //a[@title='Proceed to checkout']]
+2021-03-17 17:34:43 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (3be721fd1e7b33e8edd413c11f2d7a67)] -> class name: icon-trash]
+2021-03-17 17:34:55 ERROR BasePage:41 - Unable to click on element: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.className: icon-trash' (tried for 10 second(s) with 500 milliseconds interval)
+2021-03-17 17:38:53 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (fbc3138c1f49b2962b2fda4e5c73ad2a)] -> name: Submit]
+2021-03-17 17:38:56 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (fbc3138c1f49b2962b2fda4e5c73ad2a)] -> xpath: //a[@title='Proceed to checkout']]
+2021-03-17 17:38:56 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (fbc3138c1f49b2962b2fda4e5c73ad2a)] -> class name: icon-plus]
+2021-03-17 17:39:12 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (eff0702b1915eae238360c2330d5b142)] -> name: Submit]
+2021-03-17 17:39:14 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (eff0702b1915eae238360c2330d5b142)] -> xpath: //a[@title='Proceed to checkout']]
+2021-03-17 17:39:14 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (eff0702b1915eae238360c2330d5b142)] -> class name: icon-plus]
+2021-03-17 17:39:29 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (8b6b4b057f2273bf0645a4b6b3c9aa6f)] -> name: Submit]
+2021-03-17 17:39:32 ERROR BasePage:41 - Unable to click on element: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="submit" name="Submit" class="exclusive added">...</button> is not clickable at point (1111, 587). Other element would receive the click: <div class="layer_cart_overlay" style="width: 100%; height: 100%; display: block;"></div>
+  (Session info: chrome=89.0.4389.90)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MOV-YAZMIN', ip: '192.168.0.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\YAZMIN~2\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63303}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8b6b4b057f2273bf0645a4b6b3c9aa6f
+2021-03-17 17:39:43 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (5af1f068facfe6f08168e0fa2b50cc40)] -> xpath: //a[@title='Contact Us']]
+2021-03-17 17:39:43 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (5af1f068facfe6f08168e0fa2b50cc40)] -> id: uniform-id_contact]
+2021-03-17 17:39:43 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (5af1f068facfe6f08168e0fa2b50cc40)] -> xpath: //*[@value='2']]
+2021-03-17 17:39:45 INFO  BasePage:39 - Clicked on element: Proxy element for: DefaultElementLocator 'By.name: submitMessage'
+2021-03-17 17:40:01 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (19552cedda7b6c44fa96fb0ea3bd1e2f)] -> name: Submit]
+2021-03-17 17:40:06 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (19552cedda7b6c44fa96fb0ea3bd1e2f)] -> xpath: //a[@title='Proceed to checkout']]
+2021-03-17 17:40:06 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (19552cedda7b6c44fa96fb0ea3bd1e2f)] -> class name: icon-trash]
+2021-03-17 17:40:19 ERROR BasePage:41 - Unable to click on element: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.className: icon-trash' (tried for 10 second(s) with 500 milliseconds interval)
+2021-03-17 17:44:11 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (c8e33dbdb0c1f03ecd7a7a5bca85d03a)] -> name: Submit]
+2021-03-17 17:44:14 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (c8e33dbdb0c1f03ecd7a7a5bca85d03a)] -> xpath: //a[@title='Proceed to checkout']]
+2021-03-17 17:44:14 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (c8e33dbdb0c1f03ecd7a7a5bca85d03a)] -> class name: icon-plus]
+2021-03-17 17:44:30 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (e1fcb4b19b8919ddaacffd8d79e4da66)] -> name: Submit]
+2021-03-17 17:44:32 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (e1fcb4b19b8919ddaacffd8d79e4da66)] -> xpath: //a[@title='Proceed to checkout']]
+2021-03-17 17:44:32 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (e1fcb4b19b8919ddaacffd8d79e4da66)] -> class name: icon-plus]
+2021-03-17 17:44:48 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (5d3e59224cee5fd92c654b92976e293e)] -> name: Submit]
+2021-03-17 17:44:50 ERROR BasePage:41 - Unable to click on element: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="submit" name="Submit" class="exclusive added">...</button> is not clickable at point (1111, 587). Other element would receive the click: <div class="layer_cart_overlay" style="width: 100%; height: 100%; display: block;"></div>
+  (Session info: chrome=89.0.4389.90)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MOV-YAZMIN', ip: '192.168.0.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\YAZMIN~2\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63676}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5d3e59224cee5fd92c654b92976e293e
+2021-03-17 17:45:03 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (1a4a19fc2a3d7c359a9a2b579adf9a04)] -> xpath: //a[@title='Contact Us']]
+2021-03-17 17:45:03 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (1a4a19fc2a3d7c359a9a2b579adf9a04)] -> id: uniform-id_contact]
+2021-03-17 17:45:03 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (1a4a19fc2a3d7c359a9a2b579adf9a04)] -> xpath: //*[@value='2']]
+2021-03-17 17:45:05 INFO  BasePage:39 - Clicked on element: Proxy element for: DefaultElementLocator 'By.name: submitMessage'
+2021-03-17 17:45:18 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (087721f8b59066fa7485eb9d5d22905f)] -> name: Submit]
+2021-03-17 17:45:21 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (087721f8b59066fa7485eb9d5d22905f)] -> xpath: //a[@title='Proceed to checkout']]
+2021-03-17 17:45:21 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (087721f8b59066fa7485eb9d5d22905f)] -> class name: icon-trash]
+2021-03-17 17:45:32 ERROR BasePage:41 - Unable to click on element: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.className: icon-trash' (tried for 10 second(s) with 500 milliseconds interval)
+2021-03-17 17:48:20 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (d672bab74837051794c7ae897de81ea7)] -> name: Submit]
+2021-03-17 17:48:23 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (d672bab74837051794c7ae897de81ea7)] -> xpath: //a[@title='Proceed to checkout']]
+2021-03-17 17:48:23 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (d672bab74837051794c7ae897de81ea7)] -> class name: icon-plus]
+2021-03-17 17:48:40 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (bd4d8f8e2973c82cad1a5361176e402c)] -> name: Submit]
+2021-03-17 17:48:43 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (bd4d8f8e2973c82cad1a5361176e402c)] -> xpath: //a[@title='Proceed to checkout']]
+2021-03-17 17:48:43 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (bd4d8f8e2973c82cad1a5361176e402c)] -> class name: icon-plus]
+2021-03-17 17:49:05 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (8ee62406f26e1cbd5eecb665d9260d8c)] -> name: Submit]
+2021-03-17 17:49:08 ERROR BasePage:41 - Unable to click on element: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="submit" name="Submit" class="exclusive added">...</button> is not clickable at point (1111, 587). Other element would receive the click: <div class="layer_cart_overlay" style="width: 100%; height: 100%; display: block;"></div>
+  (Session info: chrome=89.0.4389.90)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MOV-YAZMIN', ip: '192.168.0.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\YAZMIN~2\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64013}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8ee62406f26e1cbd5eecb665d9260d8c
+2021-03-17 17:49:23 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (b3919df0f616d8426f19884152815736)] -> xpath: //a[@title='Contact Us']]
+2021-03-17 17:49:23 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (b3919df0f616d8426f19884152815736)] -> id: uniform-id_contact]
+2021-03-17 17:49:24 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (b3919df0f616d8426f19884152815736)] -> xpath: //*[@value='2']]
+2021-03-17 17:49:27 INFO  BasePage:39 - Clicked on element: Proxy element for: DefaultElementLocator 'By.name: submitMessage'
+2021-03-17 17:49:43 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (b2e6239f92541541da0055989f02aa89)] -> name: Submit]
+2021-03-17 17:49:47 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (b2e6239f92541541da0055989f02aa89)] -> xpath: //a[@title='Proceed to checkout']]
+2021-03-17 17:49:47 INFO  BasePage:39 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (b2e6239f92541541da0055989f02aa89)] -> class name: icon-trash]
+2021-03-17 17:50:03 ERROR BasePage:41 - Unable to click on element: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.className: icon-trash' (tried for 10 second(s) with 500 milliseconds interval)

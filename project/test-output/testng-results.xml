@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-17T17:48:04 CST" name="Default suite" finished-at="2021-03-17T17:50:27 CST" duration-ms="142943">
+    <groups>
+    </groups>
+    <test started-at="2021-03-17T17:48:04 CST" name="Default test" finished-at="2021-03-17T17:50:27 CST" duration-ms="142943">
+      <class name="tests.Tests_Search">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Tests_Search@68c72235]" started-at="2021-03-17T17:48:04 CST" name="setup" finished-at="2021-03-17T17:48:16 CST" duration-ms="11573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test_Adding_Quantity()[pri:0, instance:tests.Tests_Search@68c72235]" started-at="2021-03-17T17:48:16 CST" name="Test_Adding_Quantity" finished-at="2021-03-17T17:48:24 CST" duration-ms="8641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Adding_Quantity -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Tests_Search@68c72235]" started-at="2021-03-17T17:48:24 CST" name="tearDown" finished-at="2021-03-17T17:48:25 CST" duration-ms="856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Tests_Search@68c72235]" started-at="2021-03-17T17:48:25 CST" name="setup" finished-at="2021-03-17T17:48:36 CST" duration-ms="10525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testAddMoreItemsToCart()[pri:0, instance:tests.Tests_Search@68c72235]" started-at="2021-03-17T17:48:36 CST" name="testAddMoreItemsToCart" finished-at="2021-03-17T17:48:45 CST" duration-ms="9076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddMoreItemsToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Tests_Search@68c72235]" started-at="2021-03-17T17:48:45 CST" name="tearDown" finished-at="2021-03-17T17:48:46 CST" duration-ms="1548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Tests_Search@68c72235]" started-at="2021-03-17T17:48:46 CST" name="setup" finished-at="2021-03-17T17:48:58 CST" duration-ms="12034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testAddToCart()[pri:0, instance:tests.Tests_Search@68c72235]" started-at="2021-03-17T17:48:58 CST" name="testAddToCart" finished-at="2021-03-17T17:49:08 CST" duration-ms="9897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Tests_Search@68c72235]" started-at="2021-03-17T17:49:08 CST" name="tearDown" finished-at="2021-03-17T17:49:09 CST" duration-ms="824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Tests_Search@68c72235]" started-at="2021-03-17T17:49:09 CST" name="setup" finished-at="2021-03-17T17:49:19 CST" duration-ms="9962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testContactUs()[pri:0, instance:tests.Tests_Search@68c72235]" started-at="2021-03-17T17:49:19 CST" name="testContactUs" finished-at="2021-03-17T17:49:27 CST" duration-ms="8131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testContactUs -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Tests_Search@68c72235]" started-at="2021-03-17T17:49:27 CST" name="tearDown" finished-at="2021-03-17T17:49:28 CST" duration-ms="899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Tests_Search@68c72235]" started-at="2021-03-17T17:49:28 CST" name="setup" finished-at="2021-03-17T17:49:38 CST" duration-ms="10151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testRemoveFromCart()[pri:0, instance:tests.Tests_Search@68c72235]" started-at="2021-03-17T17:49:38 CST" name="testRemoveFromCart" finished-at="2021-03-17T17:50:03 CST" duration-ms="24835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemoveFromCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Tests_Search@68c72235]" started-at="2021-03-17T17:50:03 CST" name="tearDown" finished-at="2021-03-17T17:50:04 CST" duration-ms="836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Tests_Search@68c72235]" started-at="2021-03-17T17:50:04 CST" name="setup" finished-at="2021-03-17T17:50:11 CST" duration-ms="6983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSearchAndGo()[pri:0, instance:tests.Tests_Search@68c72235]" started-at="2021-03-17T17:50:11 CST" name="testSearchAndGo" finished-at="2021-03-17T17:50:15 CST" duration-ms="4062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchAndGo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Tests_Search@68c72235]" started-at="2021-03-17T17:50:15 CST" name="tearDown" finished-at="2021-03-17T17:50:16 CST" duration-ms="843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Tests_Search@68c72235]" started-at="2021-03-17T17:50:16 CST" name="setup" finished-at="2021-03-17T17:50:23 CST" duration-ms="7379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testValidSearch()[pri:0, instance:tests.Tests_Search@68c72235]" started-at="2021-03-17T17:50:23 CST" name="testValidSearch" finished-at="2021-03-17T17:50:26 CST" duration-ms="3047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidSearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Tests_Search@68c72235]" started-at="2021-03-17T17:50:26 CST" name="tearDown" finished-at="2021-03-17T17:50:27 CST" duration-ms="788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.Tests_Search -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
